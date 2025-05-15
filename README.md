@@ -2,7 +2,7 @@ AI Rock-Paper-Scissors Game Using Hand Gesture Recognition
 Project Overview
 This project implements a real-time Rock-Paper-Scissors game that leverages computer vision and artificial intelligence techniques to recognize hand gestures from a webcam feed. Using MediaPipe for hand landmark detection and OpenCV for image processing, the system detects the player's hand sign (rock, paper, or scissors) and pits it against an AI opponent that randomly selects its move. The game then determines the winner and displays the result instantly.
 
-Features
+FeaturE
 Real-time hand gesture detection using MediaPipe Hands.
 
 Recognition of three gestures: Rock, Paper, and Scissors.
